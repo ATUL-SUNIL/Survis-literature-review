@@ -1,0 +1,1 @@
+const availableImg = ["Ali2023SmartTechCropProduction","Kelly2024DRLIrrigation","Vignali2023SmartIrrigationReview","Beck2016Visual","Saikai2023SensorFeedbackRL","Abioye2022PrecisionML","Tace2022SmartIoTIrrigation","Alibabaei2022PortugalDRL","Chen2021RLForRice","Kalpana2024MLSmartIrrigationReview","Saggi2022SurveyMLIrrigation"];

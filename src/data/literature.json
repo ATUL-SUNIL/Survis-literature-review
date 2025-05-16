@@ -1,0 +1,93 @@
+[
+    {
+      "title": "Development of Mathematical and Computational Models for Predicting Agricultural Soil–Water Management Properties",
+      "authors": ["Tóth", "et al."],
+      "year": 2025,
+      "doi": "10.3390/agronomy15040942",
+      "venue": "Agronomy",
+      "keywords": ["Soil Water", "Prediction", "Computational Model", "Irrigation"],
+      "abstract": "Introduces computational models to predict soil-water properties for improved irrigation scheduling across diverse soil types."
+    },
+    {
+      "title": "A Machine Learning Approach to Optimize the Water Consumption for Irrigation of Rice Crop",
+      "authors": ["Parikh", "Sharma"],
+      "year": 2024,
+      "doi": "10.378460674",
+      "venue": "ResearchGate",
+      "keywords": ["Machine Learning", "Irrigation", "Optimisation", "XGBoost"],
+      "abstract": "Proposes a predictive XGBoost model to optimise irrigation schedules based on rainfall prediction and water consumption patterns."
+    },
+    {
+      "title": "AI-Driven Optimization of Agricultural Water Management for Sustainable Food Production",
+      "authors": ["Unknown"],
+      "year": 2024,
+      "doi": "10.1038/s41598-024-76915-8",
+      "venue": "Scientific Reports",
+      "keywords": ["AI", "Water Management", "Sustainability", "Remote Sensing"],
+      "abstract": "Combines AI and remote sensing to predict soil moisture and optimise irrigation for improved water efficiency."
+    },
+    {
+      "title": "Enhancing Irrigation Management: Unsupervised Machine Learning Approaches",
+      "authors": ["Unknown"],
+      "year": 2024,
+      "doi": "",
+      "venue": "ScienceDirect",
+      "keywords": ["Unsupervised Learning", "Clustering", "Irrigation Management", "Precision Agriculture"],
+      "abstract": "Uses unsupervised ML techniques to analyse large geophysical datasets and optimise irrigation management strategies."
+    },
+    {
+      "title": "Application of Machine Learning Approaches in Supporting Irrigation Scheduling",
+      "authors": ["Unknown"],
+      "year": 2024,
+      "doi": "",
+      "venue": "ScienceDirect",
+      "keywords": ["Machine Learning", "Irrigation Scheduling", "Review", "Decision Trees", "XGBoost"],
+      "abstract": "Reviews 16 studies using ML for irrigation scheduling and compares their data inputs, algorithms, and outcomes."
+    },
+    {
+      "title": "Precision Irrigation Management Using Machine Learning and Digital Farming Solutions",
+      "authors": ["Unknown"],
+      "year": 2024,
+      "doi": "",
+      "venue": "MDPI Digital Farming",
+      "keywords": ["Precision Irrigation", "Machine Learning", "Digital Farming", "IoT"],
+      "abstract": "Presents an ML-driven digital platform integrating weather and sensor data to optimise irrigation decisions in agriculture."
+    },
+    {
+      "title": "Artificial Intelligence to Optimize Water Consumption in Agriculture",
+      "authors": ["Unknown"],
+      "year": 2024,
+      "doi": "",
+      "venue": "ScienceDirect",
+      "keywords": ["AI", "Water Management", "Agriculture", "Decision System"],
+      "abstract": "Introduces a three-layer AI system for irrigation water savings, combining predictive modelling and real-time decision-making."
+    },
+    {
+      "title": "Integrating Artificial Intelligence into an Automated Irrigation System",
+      "authors": ["Unknown"],
+      "year": 2025,
+      "doi": "10.3390/s25041199",
+      "venue": "Sensors",
+      "keywords": ["Automated Irrigation", "AI", "Soil Moisture", "IoT"],
+      "abstract": "Describes an AI-driven irrigation system using real-time sensor data to optimise water use for rice and tomato crops."
+    },
+    {
+      "title": "Optimizing Irrigation Efficiency Using Deep Reinforcement Learning in the Field",
+      "authors": ["Unknown"],
+      "year": 2023,
+      "doi": "",
+      "venue": "arXiv",
+      "keywords": ["Deep RL", "Irrigation Control", "Water Management", "Field Trials"],
+      "abstract": "Proposes Deep RL-based Irrigation Control (DRLIC) to reduce irrigation water while maintaining crop yields."
+    },
+    {
+      "title": "Knowledge-Based Optimal Irrigation Scheduling of Agro-Hydrological Systems",
+      "authors": ["Unknown"],
+      "year": 2021,
+      "doi": "",
+      "venue": "arXiv",
+      "keywords": ["Model Predictive Control", "Agro-Hydrology", "Irrigation Scheduling", "Water Efficiency"],
+      "abstract": "Presents an MPC framework that predicts future water requirements to optimise irrigation timing in complex field environments."
+    }
+  ]
+  
